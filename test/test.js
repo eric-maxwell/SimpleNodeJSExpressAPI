@@ -1,0 +1,1 @@
+require('./bookmark.integration.test.js');
