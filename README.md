@@ -4,7 +4,9 @@ Simple rest api example using nodejs, express and basic auth.
 
 ## Code Example
 
-No code examples are included, but to run the API refer to installation.
+No code examples are included, but to run the API refer to installation.  One note that is important, I did not have time to do allot of clean up
+therefore, before running the npm test, make sure to restart the server, if you do not it could make the tests invalid, although, if you run the tests
+a second time they will clean themselves up.
 
 ## Motivation
 
