@@ -29,5 +29,6 @@ node server.js
 To execute the tests included the server must be running, I did not have time to add mocks or a fake server, but they can be 
 executed once the server is running using node server.js.   Then execute npm test.
 
-1) Run node server.js in one terminal
+1) Run node server.js in one terminal.
+
 2) Run npm test in a different terminal.
